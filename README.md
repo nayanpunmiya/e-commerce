@@ -1,6 +1,4 @@
-# Happy.Co
 
-![happyco](https://github.com/raquellchavezz/Happy.Co_finalProject/assets/119717206/6ccc4332-f077-46de-8d24-333333391dbf)
 
 Link to the website: https://server-r1g6.onrender.com/
 
@@ -67,11 +65,7 @@ Link to the website: https://server-r1g6.onrender.com/
 
 ## Installation
 
-Step 1. Go to the source directory in your terminal to clone this project. Once that is done, switch into the project directory.
 
-```bash
- git clone https://github.com/raquellchavezz/Happy.Co_finalProject.git
-```
 
 Step 2. To remove the owner git track from the project's main directory, run the command `rm -rf .git`. Then run the command `git init` to start your own git track.
 
@@ -127,6 +121,4 @@ Provided here is a test user so you will not have to create a an account to log 
 - username: happy.couser@gmail.com
 - password: Happy.Co4
 
-## Contact Me
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/rachel-raquel-chavez-758292212) for any comments or questions.
